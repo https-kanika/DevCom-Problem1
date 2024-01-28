@@ -1,0 +1,18 @@
+body{
+    background-image: url("images.jpg");
+    background-repeat: repeat;
+}
+.content{
+    padding: 10px;
+    height: 150px;
+    width:1420px;
+    top: 100px;
+    margin-top: 300px;
+    color: #333;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    padding: 50px;
+    background-color: #5b8731;
+    font-size: 24px;;
+
+}

@@ -1,0 +1,18 @@
+.vertical{
+    writing-mode: vertical-lr;
+    margin-top: 325px;
+    margin-left: 7px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #32435F;
+}
+.text{
+    background-image: url("C:\Users\kani1\Desktop\New folder (5)\images (1).jpg");
+    font-family: Georgia;
+    text-align: justify;
+    padding:10px;
+    color: #3E4658;
+    margin-top: 450px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-left: 100px;
+}

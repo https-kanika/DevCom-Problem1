@@ -1,0 +1,13 @@
+body{
+    background-image: url("Netflix-Hintergrund.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.content{
+    background-color:#FAF9F6;
+  padding: 10px;
+  height: 500px;
+  top: 100px;
+  margin:100px;
+}
